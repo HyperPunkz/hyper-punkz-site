@@ -1,4 +1,4 @@
-const cacheName = "HyperPunks-HyperPunks-0.1";
+const cacheName = "HyperPunkz-Hyper.Punkz-0.1";
 const contentToCache = [
     "Build/hyper-punkz-site.loader.js",
     "Build/hyper-punkz-site.framework.js",

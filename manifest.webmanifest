@@ -1,11 +1,11 @@
 {
-    "name": "HyperPunks",
-    "short_name": "HyperPunks",
+    "name": "Hyper.Punkz",
+    "short_name": "Hyper.Punkz",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#000000",
     "theme_color": "#000",
-    "description": "",
+    "description": "Hyper.Punkz is a gallery of 1/1 digitally rendered NFTs created and stylized with cyberpunk, scifi themes. This is a living gallery, more 1/1's will be minted.",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
